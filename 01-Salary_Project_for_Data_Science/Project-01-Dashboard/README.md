@@ -1,7 +1,7 @@
-
+![Data_Validation](https://github.com/user-attachments/assets/8554f6b2-c5cf-4d98-8a05-c3d0550cc20b)
 # 💼 Excel Salary Dashboard
 
-![Dashboard GIF](D:/Shamoun/COURSES/DATA ANALYSIS/Projects Portfolio/Image/01-Salary_Project_for_Data_Science/1_Salary_Dashboard_Final_Dashboard.gif)
+![Dashboard GIF](https://github.com/user-attachments/assets/e069a605-6854-4654-800c-cf0817031b26)
 
 ## Introduction
 
@@ -11,7 +11,8 @@ It demonstrates my skills in Excel, data analysis, and dashboard creation.
 
 ## Dashboard File
 
-- [1_Salary_Dashboard.xlsx](./1_Salary_Dashboard.xlsx)
+- [1_Project_Dashboard.xlsx](https://github.com/user-attachments/files/23564243/1_Project_Dashboard.xlsx)
+
 
 ## Excel Skills Used
 
@@ -30,20 +31,26 @@ The dataset includes:
 
 ## Dashboard Build
 
-### Charts
+### 📉 Charts
 
-#### Data Science Job Salaries - Bar Chart
+#### 📊 Data Science Job Salaries - Bar Chart
+
+<img width="393" height="299" alt="data_science_job_salaries-bar_chart" src="https://github.com/user-attachments/assets/f29f86f8-6a6c-4696-98b4-433790bb7d39" />
 
 - Excel Features: Horizontal bar chart, formatted salary values, optimized layout  
 - Insights: Quickly identify salary trends; senior roles and engineers are higher-paying  
 
 #### Country Median Salaries - Map Chart
 
-- Excel Features: Map chart, color-coded for salary levels  
-- Insights: Highlights global salary disparities and regional differences  
+![Country Median Salaries - Map Chart](https://github.com/user-attachments/assets/a91549ef-bb16-4013-9654-a602bd4776f9)
 
-### Formulas and Functions
+- 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
+- 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
+- 📊 **Data Representation:** Plotted median salary for each country with available data.
+- 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
+- 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
+###  Formulas and Functions
 #### Median Salary by Job Titles
 
 ```excel
@@ -71,13 +78,11 @@ IF(
 
 ### Data Validation
 
+![Data_Validation](https://github.com/user-attachments/assets/61e4402d-b422-489f-bcf3-55d9ecf47f94)
+
 - Filtered lists applied as data validation rules for Job Title, Country, and Type  
 - Ensures consistent data entry and enhances usability  
 
 ## Conclusion
 
 This personal Excel project demonstrates my skills in data analysis, dashboard creation, and visualization. The dashboard provides actionable insights into salaries across data-related job titles, considering location and job type.
-
----
-
-*Project created and maintained by Mahmoud Shamoun.*
