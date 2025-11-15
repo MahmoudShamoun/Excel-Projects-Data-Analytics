@@ -48,12 +48,12 @@ Used Power Query to extract the original data (`data_salary_all.xlsx`) and creat
 Transformed each query by changing column types, removing unnecessary columns, cleaning text, and trimming whitespace.
 
 - `data_jobs_all`
-
-    ![data_jobs_all](2_Project_Analysis_Screenshot1.png)
+    
+    <img width="244" height="312" alt="data_jobs_all" src="https://github.com/user-attachments/assets/9b285390-dce9-45e1-a655-07e4fe2999dc" />
 
 - `data_job_skills`
 
-    ![data_job_skills](data_job_skills.png)
+    <img width="243" height="328" alt="data_job_skills" src="https://github.com/user-attachments/assets/9d297169-eaa2-4ecf-9e10-1732bf57a8de" />
 
 #### 🔗 Load
 
@@ -61,18 +61,18 @@ Loaded both transformed queries into the workbook for analysis.
 
 - `data_jobs_all`
 
-    ![power_query_data_jobs_all](power_query_data_jobs_all.png)
+    <img width="1916" height="649" alt="power_query_data_jobs_all" src="https://github.com/user-attachments/assets/a05bad3f-4a21-4102-a8d3-67ff46563b6a" />
 
 - `data_job_skills`
 
-    ![power_query_data_job_skills](power_query_data_job_skills.png)
+    <img width="1914" height="702" alt="power_query_data_job_skills" src="https://github.com/user-attachments/assets/8abbd75c-ab79-4242-8171-f27c2821fb2c" />
 
 ### 📊 Analysis
 
 - Positive correlation between number of skills and median salary.
 - Senior roles and specialized skills lead to higher pay.
 
-    ![do_more_skills_get_you_better_pay](do_more_skills_get_you_better_pay.png)
+    <img width="874" height="537" alt="do_more_skills_get_you_better_pay" src="https://github.com/user-attachments/assets/53f02221-39e6-4c6a-a701-eba231866b1a" />
 
 ---
 
@@ -91,7 +91,7 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 - High-level roles have higher salaries globally.
 - US vs Non-US salary differences notable in tech jobs.
 
-    ![alt text](US_vs_Non-US_salary.png)
+    <img width="1776" height="738" alt="US_vs_Non-US_salary" src="https://github.com/user-attachments/assets/cf7ec649-27c3-45ae-9aa2-8f682ac48764" />
 
 ---
 
@@ -102,19 +102,20 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 - Integrated `data_jobs_all` and `data_jobs_skills` into one model.
 - Created relationship between tables via `job_id`.
 
-    ![relationship t](relationship.png)
+    <img width="1788" height="1264" alt="relationship" src="https://github.com/user-attachments/assets/80c5ed03-4a51-4482-bb54-7c052b499ecf" />
 
 📃 Power Pivot Menu
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
-    ![power_pivot_menu](power_pivot_menu.png)
+    <img width="1918" height="742" alt="power_pivot_menu" src="https://github.com/user-attachments/assets/8827643d-67d2-454a-9be7-b25dc4ddd32e" />
 
 ### 📊 Insights
 
 - SQL, Python dominate as top skills.
 - Cloud skills like AWS, Azure increasing in demand.
 
-    ![what_are_the_top_skills_of_Data_Nerds](what_are_the_top_skills_of_Data_Nerds.png)
+    <img width="759" height="513" alt="what_are_the_top_skills_of_Data_Nerds" src="https://github.com/user-attachments/assets/6b16ebf4-4be3-4fcc-802c-701981fb778e" />
+
 ---
 
 ## 4️⃣ Pay of the top 10 skills
@@ -124,7 +125,8 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 - Created combo PivotChart: Clustered Column for median salary, Line with markers for skill likelihood.
 - Customized chart for clarity.
 
-    ![what's_the_pay_of_the_10_skills](what's_the_pay_of_the_10_skills.png)
+    <img width="862" height="452" alt="what&#39;s_the_pay_of_the_10_skills" src="https://github.com/user-attachments/assets/b360cbc9-e9f8-476d-a244-9c534a0d4019" />
+
 
 ### 📊 Insights
 
