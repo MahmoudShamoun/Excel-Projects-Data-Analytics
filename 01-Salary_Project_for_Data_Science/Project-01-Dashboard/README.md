@@ -1,7 +1,7 @@
-![Data_Validation](https://github.com/user-attachments/assets/8554f6b2-c5cf-4d98-8a05-c3d0550cc20b)
+
 # 💼 Excel Salary Dashboard
 
-![Dashboard GIF](https://github.com/user-attachments/assets/e069a605-6854-4654-800c-cf0817031b26)
+![Dashboard GIF](https://github.com/user-attachments/assets/007b96e5-cabc-4a8b-aff8-9197a532aedf)
 
 ## Introduction
 
@@ -42,7 +42,7 @@ The dataset includes:
 
 #### Country Median Salaries - Map Chart
 
-![Country Median Salaries - Map Chart](https://github.com/user-attachments/assets/a91549ef-bb16-4013-9654-a602bd4776f9)
+![Country Median Salaries - Map Chart](https://github.com/user-attachments/assets/89f79fd4-6bff-46ae-94cd-9abf8d1fb1da)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -78,7 +78,7 @@ IF(
 
 ### Data Validation
 
-![Data_Validation](https://github.com/user-attachments/assets/61e4402d-b422-489f-bcf3-55d9ecf47f94)
+![Data_Validation](https://github.com/user-attachments/assets/d87f9ab8-4e6c-4033-a197-35c4c6d19b14)
 
 - Filtered lists applied as data validation rules for Job Title, Country, and Type  
 - Ensures consistent data entry and enhances usability  
