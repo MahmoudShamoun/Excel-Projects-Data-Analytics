@@ -15,35 +15,35 @@ This project explores the data science job market to identify high-demand skills
 
 The following Excel skills were utilized for analysis:
 
-- **📊 Pivot Tables**
-- **📈 Pivot Charts**
-- **🧮 DAX (Data Analysis Expressions)**
-- **🔍 Power Query**
-- **💪 Power Pivot**
+- **Pivot Tables**
+- **Pivot Charts**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Power Pivot**
 
 ### Data Jobs Dataset
 
 The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
+- **Job titles**
+- **Salaries**
+- **Locations**
+- **Skills**
 
 ---
 
 ## 1️⃣ Do more skills get you better pay?
 
-### 🔍 Skill: Power Query (ETL)
+### Skill: Power Query (ETL)
 
-#### 📥 Extract
+#### Extract
 
 Used Power Query to extract the original data (`data_salary_all.xlsx`) and created two queries:
 
 - All job information.
 - Skills per job ID.
 
-#### 🔄 Transform
+#### Transform
 
 Transformed each query by changing column types, removing unnecessary columns, cleaning text, and trimming whitespace.
 
@@ -55,7 +55,7 @@ Transformed each query by changing column types, removing unnecessary columns, c
 
     <img width="243" height="328" alt="data_job_skills" src="https://github.com/user-attachments/assets/9d297169-eaa2-4ecf-9e10-1732bf57a8de" />
 
-#### 🔗 Load
+#### Load
 
 Loaded both transformed queries into the workbook for analysis.
 
@@ -67,7 +67,7 @@ Loaded both transformed queries into the workbook for analysis.
 
     <img width="1914" height="702" alt="power_query_data_job_skills" src="https://github.com/user-attachments/assets/8abbd75c-ab79-4242-8171-f27c2821fb2c" />
 
-### 📊 Analysis
+### Analysis
 
 - Positive correlation between number of skills and median salary.
 - Senior roles and specialized skills lead to higher pay.
@@ -78,7 +78,7 @@ Loaded both transformed queries into the workbook for analysis.
 
 ## 2️⃣ Salary for data jobs in different regions
 
-### 🧮 Skills: PivotTables & DAX
+### Skills: PivotTables & DAX
 
 Calculated median salary using PivotTables and DAX formulas.
 
@@ -86,7 +86,7 @@ Calculated median salary using PivotTables and DAX formulas.
 Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 ```
 
-### 📊 Analysis
+### Analysis
 
 - High-level roles have higher salaries globally.
 - US vs Non-US salary differences notable in tech jobs.
@@ -97,19 +97,19 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
 ## 3️⃣ Top skills of data professionals
 
-### 🔧 Skill: Power Pivot
+### Skill: Power Pivot
 
 - Integrated `data_jobs_all` and `data_jobs_skills` into one model.
 - Created relationship between tables via `job_id`.
 
     <img width="1788" height="1264" alt="relationship" src="https://github.com/user-attachments/assets/80c5ed03-4a51-4482-bb54-7c052b499ecf" />
 
-📃 Power Pivot Menu
+Power Pivot Menu
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
     <img width="1918" height="742" alt="power_pivot_menu" src="https://github.com/user-attachments/assets/8827643d-67d2-454a-9be7-b25dc4ddd32e" />
 
-### 📊 Insights
+### Insights
 
 - SQL, Python dominate as top skills.
 - Cloud skills like AWS, Azure increasing in demand.
@@ -120,7 +120,7 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
 ## 4️⃣ Pay of the top 10 skills
 
-### 📊 Skill: Advanced Charts (Pivot Chart)
+### Skill: Advanced Charts (Pivot Chart)
 
 - Created combo PivotChart: Clustered Column for median salary, Line with markers for skill likelihood.
 - Customized chart for clarity.
@@ -128,7 +128,7 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
     <img width="862" height="452" alt="what&#39;s_the_pay_of_the_10_skills" src="https://github.com/user-attachments/assets/b360cbc9-e9f8-476d-a244-9c534a0d4019" />
 
 
-### 📊 Insights
+### Insights
 
 - Skills like Python, Oracle, SQL linked to higher salaries.
 - Office skills (Word, PowerPoint) linked to lower pay.
