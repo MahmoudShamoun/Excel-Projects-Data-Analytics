@@ -24,10 +24,10 @@ It demonstrates my skills in Excel, data analysis, and dashboard creation.
 
 The dataset includes:
 
-- 👨‍💼 Job titles  
-- 💰 Salaries  
-- 📍 Locations  
-- 🛠️ Skills  
+-  Job titles  
+-  Salaries  
+-  Locations  
+-  Skills  
 
 ## Dashboard Build
 
