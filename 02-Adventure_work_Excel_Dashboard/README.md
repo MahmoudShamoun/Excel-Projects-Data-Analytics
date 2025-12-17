@@ -1,6 +1,11 @@
 # Adventure Works Sales Analysis
 
 ## Profitability, Time Series & Business Insights Dashboard (Excel BI Project)
+## Dashboards Overview
+![Dashboards Overview](https://github.com/user-attachments/assets/b05fec9a-7f9c-4451-a4a3-5057e8d5a148)
+
+## Detail Dashboard
+![Detail Dashboard](https://github.com/user-attachments/assets/66c3c627-607f-43db-90bc-6e193d823847)
 
 ---
 
@@ -212,9 +217,6 @@ This dashboard focuses on performance analysis over time.
 
    * Profit distribution across individual days
 
-Screenshot:
-
-* 01-Time Series Dashboard.png
 
 ---
 
@@ -254,9 +256,6 @@ This dashboard focuses on identifying the main contributors to profitability.
 
    * Profit segmentation by customer age ranges
 
-Screenshot:
-
-* 02-Detail Dashboard.png
 
 ---
 
