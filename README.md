@@ -20,6 +20,25 @@ Welcome! This repository is my **personal Excel projects portfolio**. It contain
 - **Files:** [2_Project_Analysis.xlsx](https://github.com/user-attachments/files/23564422/2_Project_Analysis.xlsx)
 
 
+### 3️⃣ Adventure Works Sales Analysis (Excel BI Project)
+
+- **Description:** An end-to-end Excel Business Intelligence project built on the Adventure Works dataset, focusing on profitability analysis and time-series performance. The project transforms raw transactional data into executive-level dashboards designed to answer key business questions around growth, seasonality, and profit drivers.
+
+- **Skills Used:** Power Query (ETL & data cleaning), Power Pivot (Data Modeling), DAX (KPIs & Time Intelligence), Pivot Tables, Pivot Charts, Dashboard Design.
+
+- **Key Analyses:**
+KPI comparison to the previous year (Revenue, Profit, COGS, Quantity, Profit Margin, Transactions)
+Monthly, quarterly, and weekday profit trends
+Above-average yearly performance analysis
+Top 5 profitable products and customers (contribution vs others)
+Profit segmentation by gender, age groups, pricing types, and product attributes
+Country-wise profit distribution using a custom map
+- **Purpose:** Demonstrates the ability to build a business-focused BI solution in Excel, emphasizing analytical thinking, profitability drivers, and decision-support dashboards rather than static reporting.
+
+- **Files:** [Project.xlsm](https://github.com/user-attachments/files/24219034/Project.xlsm)
+
+
+
 ## Summary
 
 I created this portfolio to demonstrate my Excel and data analysis capabilities. Each project reflects my ability to clean, analyze, and visualize data to extract meaningful insights.
