@@ -4,23 +4,24 @@ Welcome! This repository is my **personal Excel projects portfolio**. It contain
 
 ## Projects Included
 
-### 1️⃣ Excel Salary Dashboard
+### 1️⃣ Salary Project for Data Science
 
+A comprehensive Excel project focused on analyzing data science job salaries, combining dashboard visualization and in-depth market analysis.
+
+🔹 Part 1: Excel Salary Dashboard
 - **Description:** A personal project that builds an Excel dashboard to visualize data job salaries by job title, country, and job type.  
 - **Skills Used:** Charts, Formulas & Functions, Data Validation.  
 - **Purpose:** Helps job seekers understand salary trends and make informed career decisions.  
 - **Files:** [1_Project_Dashboard.xlsx](https://github.com/user-attachments/files/23564417/1_Project_Dashboard.xlsx)
 
-
-### 2️⃣ Project 2 Analysis
-
+🔹 Part 2: Salary Market Analysis
 - **Description:** Analysis of the data science job market to understand the most in-demand skills and their impact on salaries.  
 - **Skills Used:** Pivot Tables, Pivot Charts, DAX, Power Query, Power Pivot.  
 - **Purpose:** Provides actionable insights for professionals about skills that increase salary potential.  
 - **Files:** [2_Project_Analysis.xlsx](https://github.com/user-attachments/files/23564422/2_Project_Analysis.xlsx)
 
 
-### 3️⃣ Adventure Works Sales Analysis (Excel BI Project)
+### 2️⃣ Adventure Works Sales Analysis (Excel BI Project)
 
 - **Description:** An end-to-end Excel Business Intelligence project built on the Adventure Works dataset, focusing on profitability analysis and time-series performance. The project transforms raw transactional data into executive-level dashboards designed to answer key business questions around growth, seasonality, and profit drivers.
 - **Skills Used:** Power Query (ETL & data cleaning), Power Pivot (Data Modeling), DAX (KPIs & Time Intelligence), Pivot Tables, Pivot Charts, Dashboard Design.
@@ -35,7 +36,7 @@ Country-wise profit distribution using a custom map
 - **Files:** [Project.xlsm](https://github.com/user-attachments/files/24219034/Project.xlsm)
 
 
-4️⃣ Customer Churn Analysis Dashboard
+### 3️⃣ Customer Churn Analysis Dashboard
 
 - **Description:** An interactive Customer Churn Analysis dashboard built using Microsoft Excel. The project focuses on identifying churn drivers, analyzing customer behavior, and highlighting high-risk segments through demographic, geographic, and usage-based analysis.
 - **Skills Used:** Pivot Tables, Pivot Charts, Slicers, Dynamic Formulas, Dashboard Design, Data Storytelling.
