@@ -2,7 +2,8 @@
 
 <!-- Project Demo GIF -->
 
-![Customer Churn Dashboard ](./assets/customer-churn-dashboard.gif)
+![Customer Churn Dashboard](https://github.com/user-attachments/assets/f68959f1-a34c-4c8e-a852-b6dee193d9d5)
+
 
 > *GIF showing dashboard interactivity, slicers, and key insights*
 
