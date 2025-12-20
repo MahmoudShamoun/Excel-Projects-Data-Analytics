@@ -50,6 +50,20 @@ Identification of key churn patterns and drivers
 - **Files:** [Project.xlsm](https://github.com/user-attachments/files/24272246/Project.xlsm)
 
 
+### 4️⃣ Coffee Shop Sales Dashboard
+
+- **Description:** An end-to-end interactive Excel dashboard analyzing coffee shop sales transactions. The project focuses on revenue trends by month, product category, and top products, identifies peak sales days and hours, and highlights the top 15 product types driving the most transactions. The dashboard uses a clean and professional color palette, not the typical coffee-themed colors, to enhance clarity and readability.  
+- **Skills Used:** Pivot Tables, Pivot Charts, Slicers, Dynamic Formulas, Charts & Dashboard Design, Data Storytelling.  
+- **Key Analyses:**
+  - Overall revenue, total transactions, and total quantity sold  
+  - Revenue trends by month  
+  - Sales patterns by day of the week and hour  
+  - Product category and top 15 product performance  
+  - Peak hours and days for operational decision-making  
+- **Purpose:** Demonstrates the ability to transform raw transactional data into actionable business insights through a clean, interactive Excel dashboard.  
+- **Files:** [Project.xlsm](https://github.com/user-attachments/files/24274006/Project.xlsm)
+
+
 
 ## Summary
 
