@@ -1,6 +1,7 @@
 # Coffee Shop Sales Dashboard
 
-![Coffee Shop Sales Dashboard GIF](path-to-gif-or-screenshot)  
+![Dashboards Overview](https://github.com/user-attachments/assets/7bf6537d-5fb8-4ab7-98c3-81cdb11860d8)
+
 *GIF showing dashboard interactivity, slicers, and key insights*
 
 ## Project Overview
