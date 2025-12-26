@@ -64,6 +64,21 @@ Identification of key churn patterns and drivers
 - **Files:** [Project.xlsm](https://github.com/user-attachments/files/24274006/Project.xlsm)
 
 
+### 5️⃣ CRM Sales Dashboard
+
+- **Description:** An end-to-end interactive CRM Sales Dashboard built using Microsoft Excel as part of the DEPI Scholarship. The dashboard tracks sales performance, pipeline progress, profitability, and highlights top-performing managers and sales agents across different regions. It provides a high-level overview of sales operations and allows interactive filtering by region and quarter.
+**Skills Used:** Pivot Tables, Pivot Charts, Slicers, Advanced Formulas, Dashboard Design, Data Storytelling.
+- **Key Analyses:**
+  - Monthly profit trends (with peak months reaching $1.3M)
+  - Total opportunities tracked (8,800+) and outcomes (Won: 4,238, Lost: 2,473)
+  - Top-5 managers and sales agents performance
+  - Regional (Central, East, West) and quarterly performance insights
+  - Win/Loss ratio analysis across quarters to optimize strategies
+- **Purpose:** Demonstrates the ability to transform CRM data into actionable business insights, track KPIs, and design an interactive dashboard for data-driven decision-making.
+- **Files:** [Project.xlsm](https://github.com/user-attachments/files/24350963/Project.xlsm)
+
+
+
 
 ## Summary
 
