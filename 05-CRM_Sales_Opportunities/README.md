@@ -1,6 +1,7 @@
 # CRM Sales Dashboard
 
-![Dashboard Overview](https://)
+![CRM Sales Opportunities](https://github.com/user-attachments/assets/f3c63b91-020c-4c73-8b45-eb7efc7d7ce7)
+
 
 *GIF showing dashboard interactivity, slicers, and key insights*
 
