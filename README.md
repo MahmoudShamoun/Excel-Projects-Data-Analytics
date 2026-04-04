@@ -83,3 +83,10 @@ Identification of key churn patterns and drivers
 ## Summary
 
 I created this portfolio to demonstrate my Excel and data analysis capabilities. Each project reflects my ability to clean, analyze, and visualize data to extract meaningful insights.
+
+---
+
+## 👤 Author
+
+Mahmoud Shamoun
+Data Analyst Specialist
